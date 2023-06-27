@@ -6,6 +6,8 @@ body {
 
 #message {
     background-color: white;
+    margin: 10px;
+    padding: 10px;
 }
 
 #below-message {
@@ -27,8 +29,5 @@ body {
     margin: 10px;
 }
 #contact-info {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    background-color: white;
+
 }

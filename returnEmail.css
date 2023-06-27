@@ -3,7 +3,9 @@ body {
     flex-direction: column;
     background-color: grey;
 }
-
+main {
+    background-color: blue;
+}
 #message {
     background-color: lightgray;
     margin: 10px;

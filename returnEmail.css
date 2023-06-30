@@ -4,7 +4,7 @@ body {
     background-color: grey;
     border: 10px solid black;
     width: auto;
-    max-width: 400px;
+    max-width: 300px;
 }
 
 main {
@@ -54,10 +54,12 @@ main {
 #contact-info {
     display: flex;
     justify-content: space-evenly;
+    text-align: center;
 }
 
 #terms {
     display: flex;
     justify-content: space-evenly;
     width: 100%;
+    text-align: center;
 }

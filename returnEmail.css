@@ -3,6 +3,8 @@ body {
     flex-direction: column;
     background-color: grey;
     border: 10px solid black;
+    width: auto;
+    max-width: 800px;
 }
 
 main {

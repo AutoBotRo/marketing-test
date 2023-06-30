@@ -4,7 +4,7 @@ body {
     background-color: grey;
     border: 10px solid black;
     width: auto;
-    max-width: 300px;
+    max-width: 400px;
 }
 
 main {
@@ -47,17 +47,16 @@ main {
 #contact-section{
     background-color: white;
     width: 100%;
-    max-width: 100%;
-    border: 2px solid rgba(0,0,0);
-    
+    border: 2px solid rgba(0,0,0);   
 }
+
 #contact-info {
     display: flex;
     justify-content: space-evenly;
     text-align: center;
 }
 
-#terms {
+.terms {
     display: flex;
     justify-content: space-evenly;
     width: 100%;

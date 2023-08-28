@@ -44,15 +44,11 @@ main {
     padding: 10px;
 }
 
-#contact-section{
+.contact-section{
     background-color: white;
     width: 100%;
     border: 2px solid rgba(0,0,0);   
-}
-
-#contact-info {
-    display: flex;
-    justify-content: space-evenly;
+    text-align: center;
 }
 
 .terms {

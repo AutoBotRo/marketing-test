@@ -1,7 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
-    background-color: rgb(145, 139, 139);
+    background-color: grey;
     border: 10px solid black;
     width: auto;
     max-width: 400px;
@@ -48,7 +48,6 @@ main {
     background-color: white;
     width: 100%;
     border: 2px solid rgba(0,0,0);   
-    text-align: center;
 }
 
 .terms {

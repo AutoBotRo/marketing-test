@@ -1,7 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
-    background-color: grey;
+    background-color: rgb(145, 139, 139);
     border: 10px solid black;
     width: auto;
     max-width: 400px;
